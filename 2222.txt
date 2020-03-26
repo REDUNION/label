@@ -1,0 +1,20 @@
+^XA
+^FX Top section with company logo, name and address.
+^CF0,60
+^FO20,30^FDMILKPLAN^FS
+^CF0,30
+^FO620,55^FDRnD_CODES^FS
+^FO20,85^GB750,1,3^FS
+^FX Second section with recipient address and permit information.
+^CFA,40
+^FO50,120^FD_______^FS
+^FO50,160^FD________^FS
+^FO50,200^FD_______^FS
+^FO50,240^FD_______^FS
+^CFA,25
+^FO20,450^FDCOMMENTS:^FS
+^FX Fourth section (the two boxes on the bottom).
+^FO20,480^GB750,100,5^FS
+^CF0,50
+ ^FO50,510^FD_________^FS
+^XZ
